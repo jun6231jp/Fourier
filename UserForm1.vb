@@ -18,7 +18,7 @@ Module4.Fourier_triangle
 ElseIf OptionButton3.Value = True Then
 Unload Me
 MsgBox ("半円波の生成を開始します。")
-Module1.Fourier_circle
+Module2.Fourier_circle
 End If
 
 End Sub
